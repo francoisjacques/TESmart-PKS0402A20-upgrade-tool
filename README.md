@@ -27,7 +27,7 @@ According to TESmart, Windows 10 and later. I don't know for previous versions a
   - A professional software developer, such a dad, and an annoyed TESmart customer. I'm glad they fixed it, but come on, a technical memo could have been sent to registered users (Oh wait, it's just for marketing!) If you don't trust the software here, reach out to TESmart.
 
 - How did you upload the binary files to github?
- - My very first commit was to set the gitattributes as paranoia to ensure git won't try any silly manipulations on the files. The upload was through the front-end so git should not have modified the file in anyway. A binary compare revealed an exact match, you should be good.
+  - My very first commit was to set the gitattributes as paranoia to ensure git won't try any silly manipulations on the files. The upload was through the front-end so git should not have modified the file in anyway. A binary compare revealed an exact match, you should be good.
    
 ## DISCLAIMER
 
