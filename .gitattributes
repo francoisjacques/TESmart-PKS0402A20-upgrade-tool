@@ -1,0 +1,4 @@
+# Tell git to not munge the files in any way.
+*.exe     -text diff
+*.pdf     -text diff
+*.bin -text diff
